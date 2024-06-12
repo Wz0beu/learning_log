@@ -1,2 +1,2 @@
-# GitHubWang001.github.io
+# Wz0beu.github.io
 learning_log
